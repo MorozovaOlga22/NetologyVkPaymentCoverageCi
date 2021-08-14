@@ -64,6 +64,6 @@ class MainKtTest {
             cardType = cardType
         )
 
-        assertEquals(750000, commission)
+        assertEquals(3500, commission)
     }
 }
